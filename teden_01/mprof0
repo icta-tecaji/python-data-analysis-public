@@ -1,0 +1,9 @@
+Filename: /home/leon/ICTA/python-analitika-public/teden_01/memscript.py
+
+Line #    Mem usage    Increment   Line Contents
+================================================
+     1     73.8 MiB     73.8 MiB   def my_func():
+     2     74.3 MiB      0.6 MiB       a = [1] * 100000
+     3     81.3 MiB      7.0 MiB       b = [2] * 900000
+     4     74.5 MiB      0.0 MiB       del b
+     5     74.5 MiB      0.0 MiB       return a
