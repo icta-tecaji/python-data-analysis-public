@@ -64,3 +64,29 @@ Gradiva tečaja Analitika podatkov v Pythonu
 - Using Loops with pandas
 - Primer: Calculating Return on Assets by Country
 - Understanding SettingwithCopyWarning in pandas
+
+### Del 4: Priprava in čiščenje podatkov
+- Get the data - Reading CSV Files with Encodings
+- Cleaning Column Names
+- Converting String Columns to Numeric
+- Renaming Columns
+- Extracting Values from Strings
+- Correcting Bad Values - map() method
+- Introduction to Missing Data
+    - Trade-Offs in Missing Data Conventions
+    - Missing Data in Pandas
+    - None: Pythonic missing data
+    - NaN: Missing numerical data
+    - NaN and None in Pandas
+    - Operating on Null Values
+        - Detecting null values
+        - Dropping null values
+        - Filling null values
+- Dropping Missing Values
+- Filling Missing Values
+- Removing Duplicates
+- Replacing Values
+- Dropping Columns
+- Vaja          
+- Save clean data to CSV file
+- Analiza
