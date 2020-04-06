@@ -90,3 +90,34 @@ Gradiva tečaja Analitika podatkov v Pythonu
 - Vaja          
 - Save clean data to CSV file
 - Analiza
+
+### Del 5: Prikazovanje podatkov - osnovno
+- Representation Of Data 
+- Introduction To The Data
+- Introduction to matplotlib
+- Axis Ticks
+    - Fixing Axis Ticks
+    - Adding Axis Labels And A Title
+- Matplotlib Classes
+- Grid Positioning
+- Adding Data
+- Formatting And Spacing
+- Comparing Across More Years
+- Overlaying Line Charts
+- Adding A Legend
+- Introduction to the data
+- Bar Plots
+    - Creating Bars
+    - Aligning Axis Ticks And Labels
+    - Horizontal Bar Plot
+- Scatter plot
+    - Switching axes
+    - Benchmarking correlation
+- Histogram
+    - Frequency Distribution
+    - Binning
+    - Histogram In Matplotlib
+    - Comparing histograms
+    - Quartiles
+- Box Plot
+    - Multiple Box Plots
