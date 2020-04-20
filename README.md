@@ -121,3 +121,50 @@ Gradiva tečaja Analitika podatkov v Pythonu
     - Quartiles
 - Box Plot
     - Multiple Box Plots
+    
+### Del 6: Prikazovanje podatkov - napredno
+- Improving Plot Aesthetics
+    - Introduction To The Data
+    - Data-Ink Ratio
+    - Hiding Tick Marks
+    - Hiding Spines
+    - Comparing data with multiple plots
+- Color, Layout, and Annotations
+    - Color
+    - Setting Line Color Using RGB
+    - Setting Line Width
+    - Improve the Layout and Ordering
+    - Replacing the Legend With Annotations
+- Visualization with pandas
+    - df.plot
+    - Plotting Version 1: .plot plots the index against every column
+    - Plotting Version 2: .plot(x='col1') plots against a single specific column
+    - Plotting Version 3: .plot(x='col1', y='col2') plots one specific column against another specific column
+- Seaborn
+    - Introduction to Seaborn
+    - Introduction to the Data Set
+    - Creating Histograms In Seaborn
+    - Generating A Kernel Density Plot
+    - Modifying The Appearance Of The Plots
+    - Conditional Plots
+    - Adding A Legend
+
+### Del 7: Uvoz podatkov
+- Text encoding: ASCII, Unicode, and others
+    - Unicode and UTF-8
+- Reading and Writing Data with pandas
+    - CVS files
+        - Primer 1: seaslug.txt
+        - Primer 2: FOOD_DES.txt
+        - Primer 3: MplsStops.csv
+        - Primer 4: iperf.txt
+    - JSON files
+        - Orient options
+        - Primer: ocenas.json
+        - Primer: temperatures.json
+        - Primer: cities.json
+        - Primer: transactions.json
+        - Primer: all_hour_geo.json
+        - Primer: rates.json
+    - Python Pickle Format
+    - Excel files
