@@ -168,3 +168,29 @@ Gradiva tečaja Analitika podatkov v Pythonu
         - Primer: rates.json
     - Python Pickle Format
     - Excel files
+     
+### Del 8: Agregacija, združevanje in tranformacija podatkov
+- Data Aggregation
+    - Introduction to the Data
+    - Aggregate Data with Loops
+    - GroupBy Operation
+        - Creating GroupBy Objects
+        - Exploring GroupBy Objects
+        - Common Aggregation Methods
+        - Aggregating Specific Columns
+        - Agg() Method
+        - Computing Multiple and Custom Aggregations
+    - Pivot Tables
+- Combining Data
+    - Combining Dataframes with the Concat Function
+    - Joining Dataframes with the Merge Function
+        - Joining on Columns
+        - Left Joins
+        - Join on Index
+    - Primer: Combine Data and Create a Visualization
+- Transforming Data
+    - Map and Apply Methods (Element-wise)
+    - Applymap Method (Element-wise to Multiple Columns)
+    - Apply Method (along an Axis)
+    - Melt Function
+    - Primer: Aggregate the Data and Create a Visualization
