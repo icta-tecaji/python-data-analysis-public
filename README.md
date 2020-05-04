@@ -194,3 +194,50 @@ Gradiva tečaja Analitika podatkov v Pythonu
     - Apply Method (along an Axis)
     - Melt Function
     - Primer: Aggregate the Data and Create a Visualization
+    
+### Del 9: Priprava in čiščenje podatkov - napredno
+- Working With Strings In Pandas
+    - Data
+    - Using Apply to Transform Strings
+    - Vectorized String Methods
+        - Exploring Missing Values with Vectorized String Methods
+- Regular Expressions in Pandas
+    - The Regular Expression Module
+    - Finding Specific Words in Strings
+    - Using Regular Expressions to Select Data
+    - Import new dataset
+    - Quantifiers
+    - Character Classes
+    - Raw strings
+    - Extracting Substrings from a Series
+    - Using Flags to Modify Regex Patterns
+    - Primer: Create a frequency table of the different capitalizations of SQL
+    - Primer: Versions of Python
+    - Primer: Extracting URL Parts
+        - Using Named Capture Groups
+    - Primer: Clean a String Column, Aggregate the Data, and Plot the Results
+- Working With Missing Data
+    - Introduction
+    - Identifying Missing Values
+    - Correcting Data Cleaning Errors that Result in Missing Values
+    - Visualizing Missing Data
+    - Using Data From Additional Sources to Fill in Missing Values
+    - Identifying Duplicates Values
+    - Correcting Duplicates Values
+    - Handle Missing Values by Dropping Columns
+    - Analyzing Missing Data
+    - Handling Missing Values with Imputation
+    - Dropping Rows
+- Identifying Hidden Missing Data
+    - Primer: Happiness 2015
+    - Primer: Diabetes
+        - Analyzing missingness percentage
+- Andvance Visualization of Missing Data
+    - Missingness Patterns
+- Handle Missing Values
+    - Dropping Rows
+    - Imputation Techniques
+        - Mean & median imputation
+        - Mode and constant imputation
+        - Visualize imputations
+
