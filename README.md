@@ -241,3 +241,24 @@ Gradiva tečaja Analitika podatkov v Pythonu
         - Mode and constant imputation
         - Visualize imputations
 
+### Del 10: Timeseries 
+- Dates and Times in Python
+    - Native Python dates and times: datetime
+    - Native Python dates and times: dateutil
+- Typed arrays of times: NumPy's datetime64
+- Dates and times in pandas: best of both worlds
+    - Pandas Time Series: Indexing by Time
+    - Pandas Time Series Data Structures
+    - Regular sequences
+- The data
+    - Getting the data
+- Time series data structures
+- Creating a time series DataFrame
+- Time-based indexing
+- Visualizing time series data
+- Customizing time series plots
+- Seasonality
+- Frequencies
+- Resampling
+- Rolling windows
+- Trends
