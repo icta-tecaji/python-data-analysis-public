@@ -1,6 +1,24 @@
 # IoT Fundamentals: Analitika podatkov v Python-u (public)
 
-Gradiva tečaja Analitika podatkov v Pythonu
+Gradiva tečaja Analitika podatkov v Pythonu.
+
+## Zagon 
+### Linux (Ubuntu 20)
+- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Namestimo Python venv: `apt install python3.8-venv`
+- Ustvarimo virtualno okolje: `python3 -m venv .venv`
+- Aktiviramo virtualno okolje: `source .venv/bin/activate`
+- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
+- Zagon Jupyter Notebooks: `jupyter notebook`
+- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
+- Remote access (before running the notebook):
+    - Generate the config file: `jupyter notebook --generate-config`
+    - Add the following lines to the conifg:
+        - `c.NotebookApp.allow_origin = '*'`
+        - `c.NotebookApp.ip = '0.0.0.0'`
+
+### Windows 10
+- TODO
 
 ## Vsebina
 

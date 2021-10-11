@@ -1,0 +1,4 @@
+notebook
+pandas
+numpy
+memory-profiler
