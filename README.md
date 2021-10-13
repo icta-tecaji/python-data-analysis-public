@@ -2,8 +2,23 @@
 
 Gradiva tečaja Analitika podatkov v Pythonu.
 
+## Termini
+- 14.10.2021
+- 21.10.2021
+- 28.10.2021
+- 4.11.2021
+- 11.11.2021
+- 18.11.2021
+- 25.11.2021
+- 2.12.2021
+- 9.12.2021
+- 16.12.2021
+- Po potebi dodamo
+
 ## Zagon 
 ### Linux (Ubuntu 20)
+- Po potrebi namestimo git in Python:
+    - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 - Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
 - Namestimo Python venv: `apt install python3.8-venv`
 - Ustvarimo virtualno okolje: `python3 -m venv .venv`
@@ -18,7 +33,26 @@ Gradiva tečaja Analitika podatkov v Pythonu.
         - `c.NotebookApp.ip = '0.0.0.0'`
 
 ### Windows 10
-- TODO
+- Po potrebi namestimo git in Python:
+    - https://git-scm.com/download/win
+    - https://www.python.org/downloads/windows/
+- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Ustvarimo virtualno okolje: `python -m venv .venv`
+- Aktiviramo virtualno okolje: `.venv\Scripts\activate`
+- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
+- Zagon Jupyter Notebooks: `jupyter notebook`
+- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
+
+### Mac OS
+- Po potrebi namestimo git in Python:
+    - https://git-scm.com/download/mac
+    - https://www.python.org/downloads/macos/
+- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Ustvarimo virtualno okolje: `python3 -m venv .venv`
+- Aktiviramo virtualno okolje: `source .venv/bin/activate`
+- Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
+- Zagon Jupyter Notebooks: `jupyter notebook`
+- Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
 
 ## Vsebina
 
@@ -28,10 +62,6 @@ Gradiva tečaja Analitika podatkov v Pythonu.
 - Data Engineer, Data Analyst, Data Scientist — What’s the Difference?
 - Overview of the data science process
 - Priprava okolja
-- Learning the basics of the Unix shell
-- Python
-- Anaconda
-- Git
 - Jupyter Notebooks
 
 ### Del 2: Uvod v NumPy
