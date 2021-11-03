@@ -2,3 +2,5 @@ notebook
 pandas
 numpy
 memory-profiler
+matplotlib
+seaborn
