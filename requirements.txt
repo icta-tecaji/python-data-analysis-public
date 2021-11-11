@@ -4,3 +4,4 @@ numpy
 memory-profiler
 matplotlib
 seaborn
+openpyxl
