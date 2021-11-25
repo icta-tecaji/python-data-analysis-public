@@ -5,3 +5,5 @@ memory-profiler
 matplotlib
 seaborn
 openpyxl
+missingno
+scikit-learn
