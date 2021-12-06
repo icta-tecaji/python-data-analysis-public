@@ -1,0 +1,22 @@
+# Procesiranje velikih datasetov - pomnilnik
+
+- Introduction & Data
+- Measuring the memory usage of a Pandas DataFrame
+    - The Internal Representation of a Dataframe
+    - Dataframe Memory Footprint
+        - Numbers (int, float) and other fixed-size objects
+        - Example: moma dataset - float clomun
+        - Object Columns (arbitrarily-sized objects)
+    - Getting memory usage by type
+- Optimizing Dataframe Memory Footprint
+    - Dropping columns
+    - Optimizing Numeric Columns with Smaller Subtypes
+        - Integer Columns
+        - Float Columns
+    - Converting To DateTime
+    - Converting to Categorical
+    - Sparse columns
+    - Example: Selecting Types While Reading the Data In
+- Processing Dataframes in Chunks
+- Analizing big files with Pandas and SQLite
+- Vaja: Primer analize velikega dataseta
