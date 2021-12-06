@@ -1,0 +1,436 @@
+School ID,School Name,Building Code,Street Address,City,State,Zip Code
+02M260,Clinton School Writers and Artists,M933,425 West 33rd Street,Manhattan,NY,10001
+06M211,Inwood Early College for Health and Information Technologies,M052,650 Academy Street,Manhattan,NY,10002
+01M539,"New Explorations into Science, Technology and Math High School",M022,111 Columbia Street,Manhattan,NY,10002
+02M294,Essex Street Academy,M445,350 Grand Street,Manhattan,NY,10002
+02M308,Lower Manhattan Arts Academy,M445,350 Grand Street,Manhattan,NY,10002
+02M545,High School for Dual Language and Asian Studies,M445,350 Grand Street,Manhattan,NY,10002
+01M292,Henry Street School for International Studies,M056,220 Henry Street,Manhattan,NY,10002
+01M696,Bard High School Early College,M097,525 East Houston Street,Manhattan,NY,10002
+02M305,Urban Assembly Academy of Government and Law,M445,350 Grand Street,Manhattan,NY,10002
+01M509,Marta Valle High School,M025,145 Stanton Street,Manhattan,NY,10002
+01M448,University Neighborhood High School,M446,200 Monroe Street,Manhattan,NY,10002
+02M543,New Design High School,M445,350 Grand Street,Manhattan,NY,10002
+02M298,Pace High School,M131,100 Hester Street,Manhattan,NY,10002
+02M420,High School for Health Professions and Human Services,M475,345 East 15th Street,Manhattan,NY,10003
+02M399,High School for Language and Diplomacy,M460,40 Irving Place,Manhattan,NY,10003
+02M546,Academy for Software Engineering,M460,40 Irving Place,Manhattan,NY,10003
+02M533,Union Square Academy for Health Sciences,M460,40 Irving Place,Manhattan,NY,10003
+02M438,International High School at Union Square,M460,40 Irving Place,Manhattan,NY,10003
+02M407,Institute for Collaborative Education,M475,345 East 15th Street,Manhattan,NY,10003
+02M374,Gramercy Arts High School,M460,40 Irving Place,Manhattan,NY,10003
+02M551,Urban Assembly New York Harbor School,M877,550 Wheeler Avenue,Manhattan,NY,10004
+02M580,Richard R. Green High School of Teaching,M282,26 Broadway,Manhattan,NY,10004
+02M418,Millennium High School,M824,75 Broad Street,Manhattan,NY,10004
+02M316,Urban Assembly School of Business for Young Women,M282,26 Broadway,Manhattan,NY,10004
+02M489,High School of Economics and Finance,M833,100 Trinity Place,Manhattan,NY,10006
+02M425,Leadership and Public Service High School,M894,90 Trinity Place,Manhattan,NY,10006
+01M450,East Side Community School,M060,420 East 12th Street,Manhattan,NY,10009
+02M411,Baruch College Campus High School,M874,55 East 25th Street,Manhattan,NY,10010
+02M047,47 American Sign Language and English Secondary School,M047,223 East 23rd Street,Manhattan,NY,10010
+02M413,School of the Future High School,M660,127 East 22nd Street,Manhattan,NY,10010
+02M439,Manhattan Village Academy,M873,43 West 22nd Street,Manhattan,NY,10010
+02M422,Quest to Learn,M440,351 West 18th Street,Manhattan,NY,10011
+02M412,NYC Lab School for Collaborative Studies,M070,333 West 17th Street,Manhattan,NY,10011
+02M534,Harvest Collegiate High School,M883,34 West 14th Street,Manhattan,NY,10011
+02M437,Hudson High School of Learning Technologies,M440,351 West 18th Street,Manhattan,NY,10011
+02M392,Manhattan Business Academy,M440,351 West 18th Street,Manhattan,NY,10011
+02M605,Humanities Preparatory Academy,M440,351 West 18th Street,Manhattan,NY,10011
+02M419,Landmark High School,M440,351 West 18th Street,Manhattan,NY,10011
+02M600,High School of Fashion Industries,M600,225 West 24th Street,Manhattan,NY,10011
+02M414,NYC Museum School,M070,333 West 17th Street,Manhattan,NY,10011
+02M615,Chelsea Career and Technical Education High School,M615,131 Avenue of the Americas,Manhattan,NY,10013
+02M376,NYC iSchool,M615,131 Avenue of the Americas,Manhattan,NY,10013
+02M432,Murray Hill Academy,M620,111 East 33rd Street,Manhattan,NY,10016
+02M427,Manhattan Academy for Arts and Language,M620,111 East 33rd Street,Manhattan,NY,10016
+02M500,Unity Center for Urban Technologies,M620,111 East 33rd Street,Manhattan,NY,10016
+02M393,Business of Sports School,M625,439 West 49th Street,Manhattan,NY,10019
+02M303,Facing History School,M535,525 West 50th Street,Manhattan,NY,10019
+02M296,High School of Hospitality Management,M535,525 West 50th Street,Manhattan,NY,10019
+02M300,Urban Assembly School of Design and Construction,M535,525 West 50th Street,Manhattan,NY,10019
+02M135,Urban Assembly School for Emergency Management,M625,439 West 49th Street,Manhattan,NY,10019
+02M400,High School for Environmental Studies,M834,444 West 56th Street,Manhattan,NY,10019
+02M630,Art and Design High School,M488,231-249 East 56th Street,Manhattan,NY,10019
+02M542,Manhattan Bridges High School,M535,525 West 50th Street,Manhattan,NY,10019
+02M507,Urban Assembly Gateway School for Technology,M625,439 West 49th Street,Manhattan,NY,10019
+02M288,Food and Finance High School,M535,525 West 50th Street,Manhattan,NY,10019
+02M416,Eleanor Roosevelt High School,M855,411 East 76th Street,Manhattan,NY,10021
+03M299,"High School for Arts, Imagination, and Inquiry",M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M307,Urban Assembly School for Media Studies,M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M479,Beacon High School,M837,227-243 West 61st Street,Manhattan,NY,10023
+03M485,Fiorello H. LaGuardia High School of Music and Art and Performing Arts,M485,100 Amsterdam Avenue,Manhattan,NY,10023
+03M494,High School of Arts and Technology,M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M541,Manhattan / Hunter Science High School,M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M859,Special Music School,M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M492,"High School for Law, Advocacy, and Community Justice",M490,122 Amsterdam Avenue,Manhattan,NY,10023
+03M402,Urban Assembly School for Green Careers,M470,145 West 84th Street,Manhattan,NY,10024
+03M417,Frank McCourt High School,M470,145 West 84th Street,Manhattan,NY,10024
+03M403,Global Learning Collaborative,M470,145 West 84th Street,Manhattan,NY,10024
+03M415,Wadleigh Secondary School for the Performing and Visual Arts,M088,215 West 114th Street,Manhattan,NY,10026
+03M860,Frederick Douglass Academy II Secondary School,M088,215 West 114th Street,Manhattan,NY,10026
+05M362,Columbia Secondary School,M125,425 West 123rd Street,Manhattan,NY,10027
+05M367,Academy for Social Action (College Board),M043,509 West 129th Street,Manhattan,NY,10027
+05M369,Urban Assembly School for the Performing Arts,M043,509 West 129th Street,Manhattan,NY,10027
+04M680,Heritage School,M107,1680 Lexington Avenue,Manhattan,NY,10029
+04M555,Central Park East High School,M013,1573 Madison Avenue,Manhattan,NY,10029
+04M495,Park East High School,M495,230 East 105th Street,Manhattan,NY,10029
+04M610,Young Women's Leadership School,M895,105 East 106th Street,Manhattan,NY,10029
+04M435,Manhattan Center for Science and Mathematics,M435,260 Pleasant Avenue,Manhattan,NY,10029
+04M372,Esperanza Preparatory Academy,M117,240 East 109th Street,Manhattan,NY,10029
+05M304,Mott Hall High School,M136,6 Edgecombe Avenue,Manhattan,NY,10030
+05M670,Thurgood Marshall Academy for Learning and Social Change,M970,200-214 West 135th Street,Manhattan,NY,10030
+05M692,"High School for Mathematics, Science, and Engineering at City College",M812,240 Convent Avenue,Manhattan,NY,10031
+06M540,A. Philip Randolph Campus High School,M540,443 West 135th Street,Manhattan,NY,10031
+06M552,Gregorio Luperon High School for Science and Mathematics,M876,501 West 165th Street,Manhattan,NY,10032
+06M346,Community Health Academy of the Heights,M814,504 West 158th Street,Manhattan,NY,10032
+06M348,Washington Heights Expeditionary Learning School,M143,511 West 182nd Street,Manhattan,NY,10033
+06M423,High School for Excellence and Innovation,M052,650 Academy Street,Manhattan,NY,10034
+05M157,Urban Assembly School for Global Commerce,M501,2005 Madison Avenue,Manhattan,NY,10035
+04M409,Coalition School for Social Change,M045,2351 1st Avenue,Manhattan,NY,10035
+02M531,Repertory Company High School for Theatre Arts,M896,123 West 43rd Street,Manhattan,NY,10036
+02M408,Professional Performing Arts High School,M017,328 West 48th Street,Manhattan,NY,10036
+02M529,Jacqueline Kennedy Onassis High School,M486,120 West 46th Street,Manhattan,NY,10036
+02M280,Manhattan Early College School for Advertising,M520,411 Pearl Street,Manhattan,NY,10038
+02M520,Murry Bergtraum High School for Business Careers,M520,411 Pearl Street,Manhattan,NY,10038
+02M282,Urban Assembly Maker Academy,M520,411 Pearl Street,Manhattan,NY,10038
+02M139,Stephen T. Mather Building Arts and Craftsmanship High School,M520,411 Pearl Street,Manhattan,NY,10038
+05M499,Frederick Douglass Academy,M010,2581 7th Avenue,Manhattan,NY,10039
+06M463,High School for Media and Communications,M465,549 Audubon Avenue,Manhattan,NY,10040
+06M462,College Academy,M465,549 Audubon Avenue,Manhattan,NY,10040
+06M467,High School for Law and Public Service,M465,549 Audubon Avenue,Manhattan,NY,10040
+06M293,City College Academy of the Arts,M218,4600 Broadway,Manhattan,NY,10040
+06M468,High School for Health Careers and Sciences,M465,549 Audubon Avenue,Manhattan,NY,10040
+02M459,Manhattan International High School,M480,317 East 67th Street,Manhattan,NY,10065
+02M519,Talent Unlimited High School,M480,317 East 67th Street,Manhattan,NY,10065
+02M449,Vanguard High School,M480,317 East 67th Street,Manhattan,NY,10065
+02M655,Life Sciences Secondary School,M645,320 East 96th Street,Manhattan,NY,10128
+02M475,Stuyvesant High School,M477,345 Chambers Street,Manhattan,NY,10282
+31R600,Ralph R. McKee Career and Technical Education High School,R600,290 St Marks Place,Staten Island,NY,10301
+31R080,Michael J. Petrides School,R880,715 Ocean Terrace,Staten Island,NY,10301
+31R450,Curtis High School,R450,105 Hamilton Avenue,Staten Island,NY,10301
+31R445,Port Richmond High School,R445,85 St Josephs Avenue,Staten Island,NY,10302
+31R605,Staten Island Technical High School,R440,485 Clawson Street,Staten Island,NY,10306
+31R440,New Dorp High School,R435,465 New Dorp Lane,Staten Island,NY,10306
+31R455,Tottenville High School,R455,100 Luten Avenue,Staten Island,NY,10312
+31R460,Susan E. Wagner High School,R460,1200 Manor Road,Staten Island,NY,10314
+31R064,Gaynor McCown Expeditionary Learning School,R043,100 Essex Drive,Staten Island,NY,10314
+31R047,CSI High School for International Studies,R043,100 Essex Drive,Staten Island,NY,10314
+07X522,Bronx Design and Construction Academy,X600,333 East 151st Street,Bronx,NY,10451
+07X547,New Explorers High School,X790,730 Concourse Village West,Bronx,NY,10451
+09X505,"Bronx School for Law, Government, and Justice",X460,244 East 163rd Street,Bronx,NY,10451
+07X548,Urban Assembly School for Careers in Sports,X790,730 Concourse Village West,Bronx,NY,10451
+07X527,Bronx Leadership Academy II High School,X790,730 Concourse Village West,Bronx,NY,10451
+07X551,Urban Assembly Bronx Academy of Letters,X183,339 Morris Avenue,Bronx,NY,10451
+07X670,Health Opportunities High School,X884,350 Gerard Avenue,Bronx,NY,10451
+07X427,Community School for Social Justice,X884,350 Gerard Avenue,Bronx,NY,10451
+07X600,Alfred E. Smith Career and Technical Education High School,X600,333 East 151st Street,Bronx,NY,10451
+09X327,Comprehensive Model School Project,X240,1501 Jerome Avenue,Bronx,NY,10452
+09X365,Academy for Language and Technology,X082,1700 Macombs Road,Bronx,NY,10453
+07X223,Laboratory School of Finance and Technology,X149,360 East 145th Street,Bronx,NY,10454
+07X221,South Bronx Preparatory (College Board),X149,360 East 145th Street,Bronx,NY,10454
+07X334,International Community High School,X139,345 Brook Avenue,Bronx,NY,10454
+07X520,Foreign Language Academy of Global Studies,X155,470 Jackson Avenue,Bronx,NY,10455
+07X500,Hostos-Lincoln Academy of Science,X162,600 St Anns Avenue,Bronx,NY,10455
+07X259,"HERO High (Health, Education, and Research Occupations High School)",X655,455 Southern Boulevard,Bronx,NY,10455
+07X495,University Heights Secondary School,X470,701 St Anns Avenue,Bronx,NY,10455
+07X473,Mott Haven Village Preparatory High School,X470,701 St Anns Avenue,Bronx,NY,10455
+09X543,High School for Violin and Dance,X400,1110 Boston Road,Bronx,NY,10456
+09X403,Bronx International High School,X400,1110 Boston Road,Bronx,NY,10456
+08X559,School for Tourism and Hospitality,X650,900 Tinton Avenue,Bronx,NY,10456
+12X479,Bronx Career and College Preparatory High School,X158,800 Home Street,Bronx,NY,10456
+09X260,Bronx Center for Science and Mathematics,X002,1363 Fulton Avenue,Bronx,NY,10456
+09X324,Bronx Early College Academy for Teaching and Learning,X166,250 East 164th Street,Bronx,NY,10456
+09X250,Eximius College Preparatory Academy (College Board),X002,1363 Fulton Avenue,Bronx,NY,10456
+12X267,Bronx Latin,X158,800 Home Street,Bronx,NY,10456
+09X404,School for Excellence,X400,1110 Boston Road,Bronx,NY,10456
+09X297,Morris Academy for Collaborative Studies,X400,1110 Boston Road,Bronx,NY,10456
+09X517,Frederick Douglass Academy III Secondary School,X148,3630 Third Avenue,Bronx,NY,10456
+09X564,Claremont International High School,X410,240 East 172nd Street,Bronx,NY,10457
+09X241,Urban Assembly School for Applied Math and Science,X970,1595 Bathgate Avenue,Bronx,NY,10457
+09X227,Bronx Collegiate Academy,X410,240 East 172nd Street,Bronx,NY,10457
+09X252,Mott Hall Bronx High School,X970,1595 Bathgate Avenue,Bronx,NY,10457
+09X276,Leadership Institute,X004,1701 Fulton Avenue,Bronx,NY,10457
+09X350,New Directions Secondary School,X410,240 East 172nd Street,Bronx,NY,10457
+09X525,Bronx Leadership Academy High School,X876,1710 Webster Avenue,Bronx,NY,10457
+09X263,Validus Preparatory Academy: An Expeditionary Learning School,X970,1595 Bathgate Avenue,Bronx,NY,10457
+09X413,Bronx High School for Medical Science,X410,240 East 172nd Street,Bronx,NY,10457
+09X231,Eagle Academy for Young Men,X465,4143 Third Avenue,Bronx,NY,10457
+09X412,Bronx High School of Business,X410,240 East 172nd Street,Bronx,NY,10457
+09X329,DreamYard Preparatory School,X410,240 East 172nd Street,Bronx,NY,10457
+10X225,Theatre Arts Production Company School,X137,2225 Webster Avenue,Bronx,NY,10457
+10X243,West Bronx Academy for the Future,X435,500 East Fordham Road,Bronx,NY,10458
+10X524,Crotona International High School,X660,2474 Crotona Avenue,Bronx,NY,10458
+10X439,Bronx High School for Law and Community Service,X435,500 East Fordham Road,Bronx,NY,10458
+10X264,Bronx Academy for Software Engineering (BASE),X660,2474 Crotona Avenue,Bronx,NY,10458
+10X434,Belmont Preparatory High School,X435,500 East Fordham Road,Bronx,NY,10458
+10X437,Fordham High School for the Arts,X435,500 East Fordham Road,Bronx,NY,10458
+10X565,High School for Energy and Technology,X660,2474 Crotona Avenue,Bronx,NY,10458
+10X374,Knowledge and Power Preparatory Academy International High School (KAPPA),X435,500 East Fordham Road,Bronx,NY,10458
+10X438,Fordham Leadership Academy for Business and Technology,X435,500 East Fordham Road,Bronx,NY,10458
+12X248,Metropolitan High School,X099,1180 Rev JA Polite Avenue,Bronx,NY,10459
+08X332,Holcombe L. Rucker School of Community Research,X039,965 Longwood Avenue,Bronx,NY,10459
+08X530,Banana Kelly High School,X039,965 Longwood Avenue,Bronx,NY,10459
+08X269,Bronx Studio School for Writers and Artists,X392,928 Simpson Street,Bronx,NY,10459
+12X278,Peace and Diversity Academy,X099,1180 Rev JA Polite Avenue,Bronx,NY,10459
+12X271,East Bronx Academy for the Future,X973,1716 Southern Boulevard,Bronx,NY,10460
+12X511,Bronx Envision Academy,X098,1619 Boston Road,Bronx,NY,10460
+12X682,Fannie Lou Hamer Freedom High School,X878,1021 Jennings Street,Bronx,NY,10460
+12X251,Explorations Academy,X098,1619 Boston Road,Bronx,NY,10460
+12X372,Urban Assembly School for Wildlife Conservation,X067,2024 Mohegan Avenue,Bronx,NY,10460
+12X684,Wings Academy,X879,1122 East 180th Street,Bronx,NY,10460
+08X348,Schuylerville Preparatory High School,X405,3000 East Tremont Avenue,Bronx,NY,10461
+08X293,Renaissance High School for Musical Theater and Technology,X405,3000 East Tremont Avenue,Bronx,NY,10461
+08X558,Westchester Square Academy,X405,3000 East Tremont Avenue,Bronx,NY,10461
+08X320,Pelham Lab High School,X405,3000 East Tremont Avenue,Bronx,NY,10461
+08X405,Herbert H. Lehman High School,X405,3000 East Tremont Avenue,Bronx,NY,10461
+08X349,Bronx River High School,X405,3000 East Tremont Avenue,Bronx,NY,10461
+11X418,Bronx High School for the Visual Arts,X839,2040 Antin Place,Bronx,NY,10462
+10X368,In-Tech Academy,X368,2975 Tibbett Avenue,Bronx,NY,10463
+10X284,Bronx School of Law and Finance,X475,99 Terrace View Avenue,Bronx,NY,10463
+10X213,Bronx Engineering and Technology Academy,X475,99 Terrace View Avenue,Bronx,NY,10463
+10X546,Bronx Theatre High School,X475,99 Terrace View Avenue,Bronx,NY,10463
+10X477,Marble Hill High School for International Studies,X475,99 Terrace View Avenue,Bronx,NY,10463
+10X237,"Marie Curie School for Medicine, Nursing, and Health Professions",X143,120 West 231st Street,Bronx,NY,10463
+10X141,Riverdale/Kingsbridge Academy,X141,660 West 237th Street,Bronx,NY,10463
+11X513,New World High School,X362,921 East 228th Street,Bronx,NY,10466
+11X514,Bronxwood Preparatory Academy,X362,921 East 228th Street,Bronx,NY,10466
+11X270,Academy for Scholarship and Entrepreneurship (College Board),X362,921 East 228th Street,Bronx,NY,10466
+11X544,High School for Contemporary Arts,X425,800 East Gun Hill Road,Bronx,NY,10467
+11X545,Bronx Aerospace High School,X425,800 East Gun Hill Road,Bronx,NY,10467
+11X290,Bronx Academy of Health Careers,X425,800 East Gun Hill Road,Bronx,NY,10467
+11X275,High School of Computers and Technology,X425,800 East Gun Hill Road,Bronx,NY,10467
+11X265,Bronx Lab School,X425,800 East Gun Hill Road,Bronx,NY,10467
+11X253,Bronx High School for Writing and Communication Arts,X425,800 East Gun Hill Road,Bronx,NY,10467
+10X433,High School for Teaching and the Professions,X430,2780 Reservoir Avenue,Bronx,NY,10468
+10X445,Bronx High School of Science,X445,75 West 205th Street,Bronx,NY,10468
+10X268,Kingsbridge International High School,X430,2780 Reservoir Avenue,Bronx,NY,10468
+10X549,Discovery High School,X430,2780 Reservoir Avenue,Bronx,NY,10468
+10X353,World View High School,X440,100 West Mosholu Parkway South,Bronx,NY,10468
+10X442,Celia Cruz Bronx High School of Music,X430,2780 Reservoir Avenue,Bronx,NY,10468
+10X696,High School of American Studies at Lehman College,X905,2925 Goulden Avenue,Bronx,NY,10468
+10X440,DeWitt Clinton High School,X440,100 West Mosholu Parkway South,Bronx,NY,10468
+10X342,International School for Liberal Arts,X430,2780 Reservoir Avenue,Bronx,NY,10468
+10X351,Bronx Collaborative High School,X440,100 West Mosholu Parkway South,Bronx,NY,10468
+11X299,Astor Collegiate Academy,X415,925 Astor Avenue,Bronx,NY,10469
+11X542,Pelham Preparatory Academy,X415,925 Astor Avenue,Bronx,NY,10469
+11X509,High School of Language and Innovation,X415,925 Astor Avenue,Bronx,NY,10469
+11X288,Collegiate Institute for Math and Science,X415,925 Astor Avenue,Bronx,NY,10469
+11X508,Bronxdale High School,X415,925 Astor Avenue,Bronx,NY,10469
+12X388,Pan American International High School at Monroe,X420,1300 Boynton Avenue,Bronx,NY,10472
+12X478,Cinema School,X423,1551 East 172nd Street,Bronx,NY,10472
+12X692,Monroe Academy for Visual Arts and Design,X420,1300 Boynton Avenue,Bronx,NY,10472
+12X242,Mott Hall V,X423,1551 East 172nd Street,Bronx,NY,10472
+12X521,Metropolitan Soundview High School,X420,1300 Boynton Avenue,Bronx,NY,10472
+12X550,High School of World Cultures,X420,1300 Boynton Avenue,Bronx,NY,10472
+08X312,Millennium Art Academy,X450,1980 Lafayette Avenue,Bronx,NY,10473
+08X452,Bronx Guild,X450,1980 Lafayette Avenue,Bronx,NY,10473
+08X367,"Archimedes Academy for Math, Science, and Technology Applications",X174,456 White Plains Road,Bronx,NY,10473
+08X432,Bronx Bridges High School,X450,1980 Lafayette Avenue,Bronx,NY,10473
+08X305,Pablo Neruda Academy,X450,1980 Lafayette Avenue,Bronx,NY,10473
+08X282,Women's Academy of Excellence,X174,456 White Plains Road,Bronx,NY,10473
+08X561,Bronx Compass High School,X450,1980 Lafayette Avenue,Bronx,NY,10473
+08X519,Felisa Rincon de Gautier Institute for Law and Public Policy,X972,1440 Story Avenue,Bronx,NY,10473
+08X376,Antonia Pantoja Preparatory Academy (College Board),X450,1980 Lafayette Avenue,Bronx,NY,10473
+11X249,Bronx Health Sciences High School,X455,750 Baychester Avenue,Bronx,NY,10475
+11X455,Harry S. Truman High School,X455,750 Baychester Avenue,Bronx,NY,10475
+24Q600,Queens Vocational and Technical High School,Q600,37-02 47th Avenue,Long Island City,NY,11101
+24Q267,High School of Applied Communication,Q735,30-20 Thomson Avenue,Long Island City,NY,11101
+24Q520,Middle College High School at LaGuardia Community College,Q520,45-35 Van Dam Street,Long Island City,NY,11101
+30Q301,Academy for Careers in Television and Film,Q404,1-50 51st Avenue,Long Island City,NY,11101
+24Q610,Aviation Career and Technical Education High School,Q610,45-30 36th Street,Long Island City,NY,11101
+30Q575,Academy of American Studies,Q451,28-04 41st Avenue,Long Island City,NY,11101
+30Q555,Newcomers High School,Q450,28-01 41st Avenue,Long Island City,NY,11101
+24Q299,Bard High School Early College Queens,Q735,30-20 Thomson Avenue,Long Island City,NY,11101
+24Q530,International High School at LaGuardia Community College,Q520,45-35 Van Dam Street,Long Island City,NY,11101
+30Q502,Information Technology High School,Q725,21-16 44th Road,Long Island City,NY,11101
+24Q560,Robert F. Wagner Jr. Secondary School for Arts and Technology,Q891,47-07 30th Place,Long Island City,NY,11101
+24Q264,Academy of Finance and Enterprise,Q735,30-20 Thomson Avenue,Long Island City,NY,11101
+30Q286,Young Women's Leadership School in Astoria,Q739,23-15 Newtown Avenue,Astoria,NY,11102
+30Q445,William Cullen Bryant High School,Q445,48-10 31st Avenue,Astoria,NY,11103
+30Q450,Long Island City High School,Q452,14-30 Broadway,Astoria,NY,11106
+30Q501,Frank Sinatra School of the Arts High School,Q570,35-12 35th Avenue,Astoria,NY,11106
+30Q258,Energy Tech High School,Q204,36-41 28th Street,Astoria,NY,11106
+30Q580,Baccalaureate School for Global Education,Q798,34-12 36th Avenue,Astoria,NY,11106
+13K419,"Science Skills Center High School for Science, Technology, and the Creative Arts",K805,49 Flatbush Avenue Extension,Brooklyn,NY,11201
+13K439,Brooklyn International High School,K805,49 Flatbush Avenue Extension,Brooklyn,NY,11201
+15K423,Brooklyn Frontiers High School,K520,112 Schermerhorn Street,Brooklyn,NY,11201
+15K497,School for International Studies,K293,284 Baltic Street,Brooklyn,NY,11201
+15K429,Brooklyn School for Global Studies,K293,284 Baltic Street,Brooklyn,NY,11201
+13K674,"City Polytechnic High School of Engineering, Architecture, and Technology",K580,105 Johnson Street,Brooklyn,NY,11201
+13K527,Urban Assembly Institute of Math and Science for Young Women,K313,283 Adams Street,Brooklyn,NY,11201
+13K483,Urban Assembly School for Law and Justice,K313,283 Adams Street,Brooklyn,NY,11201
+15K519,Cobble Hill School of American Studies,K804,347 Baltic Street,Brooklyn,NY,11201
+13K605,George Westinghouse Career and Technical Education High School,K580,105 Johnson Street,Brooklyn,NY,11201
+13K350,Urban Assembly High School of Music and Art,K805,49 Flatbush Avenue Extension,Brooklyn,NY,11201
+18K629,Cultural Academy for the Arts and Sciences,K415,5800 Tilden Avenue,Brooklyn,NY,11203
+17K745,Brooklyn Institute for Liberal Arts,K470,600 Kingston Avenue,Brooklyn,NY,11203
+18K569,Kurt Hahn Expeditionary Learning School,K415,5800 Tilden Avenue,Brooklyn,NY,11203
+17K531,School for Human Rights,K470,600 Kingston Avenue,Brooklyn,NY,11203
+18K563,It Takes a Village Academy,K415,5800 Tilden Avenue,Brooklyn,NY,11203
+17K546,High School for Public Service: Heroes of Tomorrow,K470,600 Kingston Avenue,Brooklyn,NY,11203
+18K589,Arts and Media Preparatory Academy,K232,905 Winthrop Street,Brooklyn,NY,11203
+17K533,School for Democracy and Leadership,K470,600 Kingston Avenue,Brooklyn,NY,11203
+20K609,Urban Assembly School for Criminal Justice,K223,4200 16th Avenue,Brooklyn,NY,11204
+20K505,Franklin Delano Roosevelt High School,K505,5800 20th Avenue,Brooklyn,NY,11204
+13K412,"Brooklyn Community High School of Communication, Arts, and Media",K117,300 Willoughby Avenue,Brooklyn,NY,11205
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,K265,101 Park Avenue,Brooklyn,NY,11205
+13K670,Benjamin Banneker Academy,K914,71-77 Clinton Avenue,Brooklyn,NY,11205
+14K071,Juan Morel Campos Secondary School,K071,215 Heyward Street,Brooklyn,NY,11206
+14K449,Brooklyn Latin School,K049,223 Graham Avenue,Brooklyn,NY,11206
+14K322,Foundations Academy,K033,70 Tompkins Avenue,Brooklyn,NY,11206
+14K614,Young Women's Leadership School of Brooklyn,K147,325 Bushwick Avenue,Brooklyn,NY,11206
+14K454,Green School: An Academy for Environmental Careers,K049,223 Graham Avenue,Brooklyn,NY,11206
+14K586,Lyons Community School,K049,223 Graham Avenue,Brooklyn,NY,11206
+19K510,World Academy for Total Community Health High School,K435,400 Pennsylvania Avenue,Brooklyn,NY,11207
+19K502,FDNY High School for Fire and Life Safety,K435,400 Pennsylvania Avenue,Brooklyn,NY,11207
+19K660,W. H. Maxwell Career and Technical Education High School,K660,145 Pennsylvania Avenue,Brooklyn,NY,11207
+19K504,High School for Civil Rights,K435,400 Pennsylvania Avenue,Brooklyn,NY,11207
+19K507,Performing Arts and Technology High School,K435,400 Pennsylvania Avenue,Brooklyn,NY,11207
+19K409,East New York Family Academy,K819,2057 Linden Boulevard,Brooklyn,NY,11207
+19K639,Brooklyn Lab School,K420,999 Jamaica Avenue,Brooklyn,NY,11208
+19K583,Multicultural High School,K420,999 Jamaica Avenue,Brooklyn,NY,11208
+19K683,"School for Classics: An Academy of Thinkers, Writers, and Performers",K218,370 Fountain Avenue,Brooklyn,NY,11208
+19K764,Urban Assembly School for Collaborative Healthcare,K420,999 Jamaica Avenue,Brooklyn,NY,11208
+19K422,Spring Creek Community School,K422,1065 Elton Street,Brooklyn,NY,11208
+19K615,Transit Tech Career and Technical Education High School,K615,1 Wells Street,Brooklyn,NY,11208
+19K659,Cypress Hills Collegiate Preparatory School,K420,999 Jamaica Avenue,Brooklyn,NY,11208
+19K404,Academy for Young Writers,K422,1065 Elton Street,Brooklyn,NY,11208
+19K618,Academy of Innovative Technology,K420,999 Jamaica Avenue,Brooklyn,NY,11208
+20K490,Fort Hamilton High School,K490,8301 Shore Road,Brooklyn,NY,11209
+22K405,Midwood High School,K405,2839 Bedford Avenue,Brooklyn,NY,11210
+14K474,PROGRESS High School for Professional Careers,K450,850 Grand Street,Brooklyn,NY,11211
+14K478,"High School for Enterprise, Business, and Technology",K450,850 Grand Street,Brooklyn,NY,11211
+14K488,Brooklyn Preparatory High School,K650,257 North 6th Street,Brooklyn,NY,11211
+14K685,El Puente Academy for Peace and Justice,K778,250 Hooper Street,Brooklyn,NY,11211
+14K477,School for Legal Studies,K450,850 Grand Street,Brooklyn,NY,11211
+14K561,Williamsburg Preparatory School,K650,257 North 6th Street,Brooklyn,NY,11211
+14K558,Williamsburg High School for Architecture and Design,K650,257 North 6th Street,Brooklyn,NY,11211
+23K514,Frederick Douglass Academy VII High School,K175,226 Bristol Street,Brooklyn,NY,11212
+23K697,Teachers Preparatory High School,K175,226 Bristol Street,Brooklyn,NY,11212
+17K122,Pathways in Technology Early College High School,K625,150 Albany Avenue,Brooklyn,NY,11213
+17K751,Academy for Health Careers,K625,150 Albany Avenue,Brooklyn,NY,11213
+16K455,Boys and Girls High School,K455,1700 Fulton Street,Brooklyn,NY,11213
+16K765,Nelson Mandela School for Social Justice,K455,1700 Fulton Street,Brooklyn,NY,11213
+21K348,High School of Sports Management,K400,2630 Benson Avenue,Brooklyn,NY,11214
+21K690,Brooklyn Studio Secondary School,K721,8310 21st Avenue,Brooklyn,NY,11214
+21K337,International High School at Lafayette,K400,2630 Benson Avenue,Brooklyn,NY,11214
+21K572,Expeditionary Learning School for Community Leaders,K400,2630 Benson Avenue,Brooklyn,NY,11214
+20K445,New Utrecht High School,K445,1601 80th Street,Brooklyn,NY,11214
+21K559,Life Academy High School for Film and Music,K400,2630 Benson Avenue,Brooklyn,NY,11214
+21K468,Kingsborough Early College School,K400,2630 Benson Avenue,Brooklyn,NY,11214
+15K463,Secondary School for Journalism,K460,237 7th Avenue,Brooklyn,NY,11215
+15K684,Millennium Brooklyn High School,K460,237 7th Avenue,Brooklyn,NY,11215
+15K464,Park Slope Collegiate,K460,237 7th Avenue,Brooklyn,NY,11215
+15K462,Secondary School for Law,K460,237 7th Avenue,Brooklyn,NY,11215
+13K595,Bedford Academy High School,K994,1119 Bedford Avenue,Brooklyn,NY,11216
+15K592,Khalil Gibran International Academy,K806,362 Schermerhorn Street,Brooklyn,NY,11217
+15K656,Brooklyn High School of the Arts,K655,345 Dean Street,Brooklyn,NY,11217
+13K430,Brooklyn Technical High School,K430,29 Ft Greene Place,Brooklyn,NY,11217
+22K555,Brooklyn College Academy,K917,350 Coney Island Avenue,Brooklyn,NY,11218
+20K485,High School of Telecommunication Arts and Technology,K485,350 67th Street,Brooklyn,NY,11220
+32K545,EBC High School for Public Service in Bushwick,K913,1155 Dekalb Avenue,Brooklyn,NY,11221
+16K498,Brooklyn High School for Law and Technology,K987,1396 Broadway,Brooklyn,NY,11221
+16K688,Brooklyn Academy of Global Finance,K057,125 Stuyvesant Avenue,Brooklyn,NY,11221
+16K393,Frederick Douglass Academy IV Secondary School,K026,1014 Lafayette Avenue,Brooklyn,NY,11221
+32K556,Bushwick Leaders High School for Academic Excellence,K865,797 Bushwick Avenue,Brooklyn,NY,11221
+14K610,Automotive High School,K610,50 Bedford Avenue,Brooklyn,NY,11222
+14K632,Frances Perkins Academy,K610,50 Bedford Avenue,Brooklyn,NY,11222
+21K540,John Dewey High School,K540,50 Avenue X,Brooklyn,NY,11223
+21K344,Rachel Carson High School for Coastal Studies,K303,521 West Avenue,Brooklyn,NY,11224
+17K548,Brooklyn School for Music and Theatre,K440,883 Classon Avenue,Brooklyn,NY,11225
+17K547,Brooklyn Academy of Science and the Environment,K440,883 Classon Avenue,Brooklyn,NY,11225
+17K590,Medgar Evers College Preparatory School,K590,1186 Carroll Street,Brooklyn,NY,11225
+17K600,Clara Barton High School,K600,901 Classon Avenue,Brooklyn,NY,11225
+17K524,International High School at Prospect Heights,K440,883 Classon Avenue,Brooklyn,NY,11225
+17K528,High School for Global Citizenship,K440,883 Classon Avenue,Brooklyn,NY,11225
+17K543,"Science, Technology, and Research Early College High School at Erasmus",K465,911 Flatbush Avenue,Brooklyn,NY,11226
+17K382,Academy for College Preparation and Career Exploration (College Board),K465,911 Flatbush Avenue,Brooklyn,NY,11226
+17K537,High School for Youth and Community Development at Erasmus,K465,911 Flatbush Avenue,Brooklyn,NY,11226
+17K539,High School for Service and Learning at Erasmus,K465,911 Flatbush Avenue,Brooklyn,NY,11226
+17K408,Academy of Hospitality and Tourism,K465,911 Flatbush Avenue,Brooklyn,NY,11226
+22K425,James Madison High School,K425,3787 Bedford Avenue,Brooklyn,NY,11229
+21K525,Edward R. Murrow High School,K525,1600 Avenue L,Brooklyn,NY,11230
+15K448,Brooklyn Secondary School for Collaborative Studies,K142,610 Henry Street,Brooklyn,NY,11231
+15K667,Sunset Park High School,K564,153 35th Street,Brooklyn,NY,11232
+23K493,Brooklyn Collegiate (College Board),K055,2021 Bergen Street,Brooklyn,NY,11233
+16K594,Gotham Professional Arts Academy,K040,265 Ralph Avenue,Brooklyn,NY,11233
+23K644,Eagle Academy for Young Men II,K271,1137 Herkimer Street,Brooklyn,NY,11233
+22K535,Leon M. Goldstein High School for the Sciences,K535,1830 Shore Boulevard,Brooklyn,NY,11235
+21K410,Abraham Lincoln High School,K410,2800 Ocean Parkway,Brooklyn,NY,11235
+22K611,Origins High School,K495,3000 Avenue X,Brooklyn,NY,11235
+21K620,William E. Grady Career and Technical Education High School,K620,25 Brighton 4th Road,Brooklyn,NY,11235
+18K642,Urban Action Academy,K500,1600 Rockaway Parkway,Brooklyn,NY,11236
+18K566,Brooklyn Generation School,K515,6565 Flatlands Avenue,Brooklyn,NY,11236
+18K633,High School for Medical Professions,K500,1600 Rockaway Parkway,Brooklyn,NY,11236
+18K617,High School for Innovation in Advertising and Media,K500,1600 Rockaway Parkway,Brooklyn,NY,11236
+18K576,Victory Collegiate High School,K515,6565 Flatlands Avenue,Brooklyn,NY,11236
+18K567,Brooklyn Theatre Arts High School,K515,6565 Flatlands Avenue,Brooklyn,NY,11236
+18K637,Academy for Conservation and the Environment,K515,6565 Flatlands Avenue,Brooklyn,NY,11236
+32K554,All City Leadership Secondary School,K554,321 Palmetto Street,Brooklyn,NY,11237
+32K168,Brooklyn School for Math and Research,K480,400 Irving Avenue,Brooklyn,NY,11237
+32K549,Bushwick School for Social Justice,K480,400 Irving Avenue,Brooklyn,NY,11237
+32K403,Academy for Environmental Leadership,K480,400 Irving Avenue,Brooklyn,NY,11237
+32K552,Academy of Urban Planning,K480,400 Irving Avenue,Brooklyn,NY,11237
+13K499,ACORN Community High School,K909,561 Grand Avenue,Brooklyn,NY,11238
+25Q460,Flushing High School,Q460,35-01 Union Street,Flushing,NY,11354
+25Q241,Queens High School for Language Studies,Q460,35-01 Union Street,Flushing,NY,11354
+25Q240,Veritas Academy,Q460,35-01 Union Street,Flushing,NY,11354
+25Q281,East-West School of International Studies,Q237,46-21 Colden Street,Flushing,NY,11355
+25Q263,Flushing International High School,Q189,144-80 Barclay Avenue,Flushing,NY,11355
+25Q285,World Journalism Preparatory (College Board),Q025,34-65 192nd Street,Flushing,NY,11358
+26Q495,Bayside High School,Q405,32-24 Corporal Kennedy Street,Bayside,NY,11361
+26Q415,Benjamin N. Cardozo High School,Q415,57-00 223rd Street,Oakland Gardens,NY,11364
+26Q430,Francis Lewis High School,Q430,58-20 Utopia Parkway,Fresh Meadows,NY,11365
+25Q252,Queens School of Inquiry,Q168,158-40 76th Road,Fresh Meadows,NY,11366
+25Q670,Robert F. Kennedy Community High School,Q707,75-40 Parsons Boulevard,Fresh Meadows,NY,11366
+25Q425,John Bowne High School,Q425,63-25 Main Street,Flushing,NY,11367
+25Q525,Townsend Harris High School,Q515,149-11 Melbourne Avenue,Flushing,NY,11367
+24Q550,High School for Arts and Business,Q456,105-25 Horace Harding Expressway,Corona,NY,11368
+24Q293,Civic Leadership Academy,Q744,45-10 94th Street,Elmhurst,NY,11373
+24Q585,Maspeth High School,Q585,54-40 74th Street,Elmhurst,NY,11373
+24Q296,Pan American International High School,Q744,45-10 94th Street,Elmhurst,NY,11373
+24Q236,International High School for Health Sciences,Q455,48-01 90th Street,Elmhurst,NY,11373
+24Q455,Newtown High School,Q455,48-01 90th Street,Elmhurst,NY,11373
+28Q440,Forest Hills High School,Q440,67-01 110th Street,Forest Hills,NY,11375
+28Q167,Metropolitan Expeditionary Learning School,Q686,91-30 Metropolitan Avenue,Forest Hills,NY,11375
+28Q686,Queens Metropolitan High School,Q686,91-30 Metropolitan Avenue,Forest Hills,NY,11375
+24Q485,Grover Cleveland High School,Q485,21-27 Himrod Street,Ridgewood,NY,11385
+29Q313,Benjamin Franklin High School for Finance and Information Technology,Q490,207-01 116th Avenue,Cambria Heights,NY,11411
+29Q498,Humanities and Arts Magnet High School,Q490,207-01 116th Avenue,Cambria Heights,NY,11411
+29Q243,Institute for Health Professions at Cambria Heights,Q490,207-01 116th Avenue,Cambria Heights,NY,11411
+29Q492,"Mathematics, Science Research, and Technology Magnet High School",Q490,207-01 116th Avenue,Cambria Heights,NY,11411
+29Q259,Pathways College Preparatory School (College Board),Q192,109-89 204th Street,Saint Albans,NY,11412
+29Q265,Excelsior Preparatory High School,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413
+29Q283,Preparatory Academy for Writers (College Board),Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413
+29Q248,Queens Preparatory Academy,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413
+29Q272,George Washington Carver High School for the Sciences,Q420,143-10 Springfield Boulevard,Springfield Gardens,NY,11413
+27Q650,"High School for Construction Trades, Engineering, and Architecture",Q650,94-06 104th Street,Ozone Park,NY,11416
+27Q480,John Adams High School,Q480,101-01 Rockaway Boulevard,Ozone Park,NY,11417
+27Q308,Robert H. Goddard High School of Communication Arts and Technology,Q202,138-30 Lafayette Street,Ozone Park,NY,11417
+27Q475,Richmond Hill High School,Q475,89-30 114th Street,Richmond Hill,NY,11418
+27Q334,Epic High School North,Q636,94-25 117th Street,South Richmond Hill,NY,11419
+27Q314,Epic High School South,Q226,121-10 Rockaway Boulevard,Queens,NY,11420
+29Q326,Cambria Heights Academy,Q799,188-04 91st Avenue,Hollis,NY,11423
+26Q566,"Queens High School of Teaching, Liberal Arts, and the Sciences",Q566,74-20 Commonwealth Boulevard,Bellerose,NY,11426
+26Q315,Business Technology Early College High School,Q435,230-17 Hillside Avenue,Queens Village,NY,11427
+26Q435,Martin Van Buren High School,Q435,230-17 Hillside Avenue,Queens Village,NY,11427
+28Q680,Queens Gateway to Health Sciences Secondary School,Q695,160-20 Goethals Avenue,Jamaica,NY,11432
+28Q350,Jamaica Gateway to the Sciences,Q470,167-01 Gothic Drive,Jamaica,NY,11432
+28Q328,High School for Community Leadership,Q470,167-01 Gothic Drive,Jamaica,NY,11432
+28Q896,Young Women's Leadership School in Queens,Q680,150-91 87th Road,Jamaica,NY,11432
+28Q310,Queens Collegiate (College Board),Q470,167-01 Gothic Drive,Jamaica,NY,11432
+28Q505,Hillcrest High School,Q505,160-05 Highland Avenue,Jamaica,NY,11432
+28Q620,Thomas A. Edison Career and Technical Education High School,Q620,165-65 84th Avenue,Jamaica,NY,11432
+28Q325,Hillside Arts and Letters Academy,Q470,167-01 Gothic Drive,Jamaica,NY,11432
+28Q284,York Early College Academy,Q008,108-35 167th Street,Jamaica,NY,11433
+28Q687,Queens High School for the Sciences at York College,Q774,94-50 159th Street,Jamaica,NY,11433
+28Q690,High School for Law Enforcement and Public Safety,Q690,116-25 Guy R Brewer Boulevard,Jamaica,NY,11434
+29Q327,Eagle Academy for Young Men III,Q633,171-10 Linden Boulevard,Jamaica,NY,11434
+27Q400,August Martin High School,Q400,156-10 Baisley Boulevard,Jamaica,NY,11434
+27Q260,Frederick Douglass Academy VI High School,Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691
+27Q309,Academy of Medical Technology (College Board),Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691
+27Q302,"Queens High School for Information, Research, and Technology",Q465,8-21 Bay 25th Street,Far Rockaway,NY,11691
+27Q324,Rockaway Park High School for Environmental Sustainability,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694
+27Q262,Channel View School for Research,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694
+27Q351,Rockaway Collegiate High School,Q410,100-00 Beach Channel Drive,Rockaway Park,NY,11694
+27Q323,Scholars' Academy,Q180,320 Beach 104th Street,Rockaway Park,NY,11694
