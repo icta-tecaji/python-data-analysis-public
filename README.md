@@ -1,6 +1,6 @@
-# IoT Fundamentals: Analitika podatkov v Python-u (public)
+# Analitika 1: Analitika podatkov v Python-u (public)
 
-Gradiva tečaja Analitika podatkov v Pythonu.
+Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ## Termini
 - 14.10.2021
