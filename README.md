@@ -3,17 +3,17 @@
 Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ## Termini
-- 14.10.2021
-- 21.10.2021
-- 28.10.2021
-- 4.11.2021
-- 11.11.2021
-- 18.11.2021
-- 25.11.2021
-- 2.12.2021
-- 9.12.2021
-- 16.12.2021
-- Po potebi dodamo
+- 17.1.2022
+- 24.1.2022
+- 31.1.2022
+- 7.2.2022
+- 14.2.2022
+- 21.2.2022
+- 28.2.2022
+- 7.3.2022
+- 14.3.2022
+- 21.3.2022
+- Izpit po dogovoru
 
 ## Zagon 
 ### Linux (Ubuntu 20)
@@ -376,3 +376,31 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
         - SQL data types
     - Primer: Uvoz podatkov iz CSV dokumenta v SQL bazo
 - Dodatna orodja
+
+### Del 14: Procesiranje velikih datasetov - pomnilnik
+- Introduction & Data
+- Measuring the memory usage of a Pandas DataFrame
+    - The Internal Representation of a Dataframe
+    - Dataframe Memory Footprint
+        - Numbers (int, float) and other fixed-size objects
+        - Example: moma dataset - float clomun
+        - Object Columns (arbitrarily-sized objects)
+    - Getting memory usage by type
+- Optimizing Dataframe Memory Footprint
+    - Dropping columns
+    - Optimizing Numeric Columns with Smaller Subtypes
+        - Integer Columns
+        - Float Columns
+    - Converting To DateTime
+    - Converting to Categorical
+    - Sparse columns
+    - Example: Selecting Types While Reading the Data In
+- Processing Dataframes in Chunks
+- Analizing big files with Pandas and SQLite
+- Vaja: Primer analize velikega dataseta
+
+### Del 15: Procesiranje velikih datasetov - hitrost
+- CPU Bound Programs
+- I/O Bound Programs
+- Optimizing Python Code with pandas
+- PRIMER: Pohitritev pandas kode

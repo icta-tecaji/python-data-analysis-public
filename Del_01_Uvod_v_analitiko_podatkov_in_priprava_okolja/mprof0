@@ -1,9 +1,0 @@
-Filename: /home/icta/python-analitika-public/Del_01_Uvod_v_analitiko_podatkov_in_priprava_okolja/memscript.py
-
-Line #    Mem usage    Increment  Occurences   Line Contents
-============================================================
-     1    100.5 MiB    100.5 MiB           1   def my_func():
-     2    108.1 MiB      7.6 MiB           1       a = [1] * 1000000
-     3    176.7 MiB     68.6 MiB           1       b = [2] * 9000000
-     4    108.1 MiB    -68.6 MiB           1       del b
-     5    108.1 MiB      0.0 MiB           1       return a
