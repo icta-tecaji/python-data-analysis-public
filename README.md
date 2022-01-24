@@ -7,12 +7,12 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 - 24.1.2022
 - 31.1.2022
 - 7.2.2022
-- 14.2.2022
 - 21.2.2022
 - 28.2.2022
 - 7.3.2022
 - 14.3.2022
 - 21.3.2022
+- 28.3.2022
 - Izpit po dogovoru
 
 ## Zagon 
