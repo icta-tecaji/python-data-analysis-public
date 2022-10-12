@@ -3,23 +3,23 @@
 Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ## Termini
-- 17.1.2022
-- 24.1.2022
-- 31.1.2022
-- 7.2.2022
-- 21.2.2022
-- 28.2.2022
-- 7.3.2022
-- 14.3.2022
-- 21.3.2022
-- 28.3.2022
-- Izpit po dogovoru
+- 17.10.2022
+- 24.10.2022
+- 7.11.2022
+- 14.11.2022
+- 21.11.2022
+- 28.11.2022
+- 5.12.2022
+- 12.12.2022
+- 19.12.2022
+- 10 termin
+- Izpit
 
 ## Zagon 
 ### Linux (Ubuntu 20)
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-public.git`
 - Namestimo Python venv: `apt install python3.8-venv`
 - Ustvarimo virtualno okolje: `python3 -m venv .venv`
 - Aktiviramo virtualno okolje: `source .venv/bin/activate`
@@ -36,7 +36,7 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/download/win
     - https://www.python.org/downloads/windows/
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-public.git`
 - Ustvarimo virtualno okolje: `python -m venv .venv`
 - Aktiviramo virtualno okolje: `.venv\Scripts\activate`
 - Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
@@ -47,7 +47,7 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 - Po potrebi namestimo git in Python:
     - https://git-scm.com/download/mac
     - https://www.python.org/downloads/macos/
-- Prenesemo repozitoriji: `git clone https://github.com/leon11s/python-analitika-public.git`
+- Prenesemo repozitoriji: `git clone https://github.com/icta-tecaji/python-analitika-public.git`
 - Ustvarimo virtualno okolje: `python3 -m venv .venv`
 - Aktiviramo virtualno okolje: `source .venv/bin/activate`
 - Namestimo vse potrebne knjižnice: `pip install -r requirements.txt`
