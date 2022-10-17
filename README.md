@@ -55,7 +55,6 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 - Odpremo v brskalniku: `http://<IP>:8888/?token=<TOKEN>`
 
 ## Vsebina
-
 ### Del 1: Uvod v analitiko podatkov in priprava okolja
 - Vloga podatkov
 - What is Data?
@@ -66,25 +65,25 @@ Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ### Del 2: Uvod v NumPy
 - Understanding Data Types in Python
+- Example: Data analysis in pure Python
 - How Vectorization Makes Code Faster
 - Numpy library
 - Introduction to Ndarrays
-- Priprava podatkov za delo
+- Reading CSV files with NumPy
 - Array Shapes
 - Selecting and Slicing Rows and Items from ndarrays
 - Selecting Columns and Custom Slicing ndarrays
 - Vector Math
 - Calculating Statistics For 1D ndarrays
 - Calculating Statistics For 2D ndarrays
-- Reading CSV files with NumPy
 - Datatypes
 - Boolean Indexing
+- The meaning of shapes in NumPy
 - Assigning Values
 - Adding Rows and Columns to ndarrays
 - Computation on NumPy Arrays: Universal Functions
+- Subarrays as no-copy views
 - Copying Data
-- Primer: Which is the most popular airport?
-- Primer: Calculating Statistics for Trips on Clean Data
 
 ### Del 3: Uvod v Pandas
 - Understanding pandas and NumPy
