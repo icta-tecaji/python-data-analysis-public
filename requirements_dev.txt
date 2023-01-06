@@ -1,0 +1,7 @@
+wheel
+
+-r requirements.txt
+
+flake8
+black
+isort

@@ -13,3 +13,5 @@ lxml
 html5lib
 sqlalchemy
 tables
+bottleneck
+numexpr
