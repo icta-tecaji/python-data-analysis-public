@@ -1,5 +1,6 @@
 # Procesiranje velikih datasetov - pomnilnik
 
+## Vsebina
 - Introduction & Data
 - Measuring the memory usage of a Pandas DataFrame
     - The Internal Representation of a Dataframe
@@ -18,5 +19,15 @@
     - Sparse columns
     - Example: Selecting Types While Reading the Data In
 - Processing Dataframes in Chunks
+    - Processing Chunks
+    - Counting Across Chunks
+    - Batch Processing
+    - Optimizing Performance
+    - Counting Unique Values
+    - Combining Chunks Using GroupBy
 - Analizing big files with Pandas and SQLite
+    - Computing Primarily in SQL
+    - Computing Primarily in Pandas
+    - Reading in SQL Results Using Chunks
 - Vaja: Primer analize velikega dataseta
+- More file formats
