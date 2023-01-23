@@ -3,17 +3,17 @@
 Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ## Termini
-- 17.10.2022
-- 24.10.2022
-- 7.11.2022
-- 14.11.2022
-- 21.11.2022
-- 28.11.2022
-- 5.12.2022
-- 12.12.2022
-- 19.12.2022
-- 10 termin
-- Izpit
+1. (pon) 23.1.
+2. (pon) 30.1.
+3. (pon) 06.2.
+4. (pon) 13.2.
+5. (pon) 20.2.
+6. (sre) 01.3.
+7. (pon) 06.3.
+8. (sre) 15.3.
+9. (pon) 20.3.
+10.(pon) 27.3.
+11.(pon) 03.4. - Izpit
 
 ## Zagon 
 ### Linux (Ubuntu 20)
