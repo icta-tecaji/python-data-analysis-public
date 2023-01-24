@@ -3,17 +3,17 @@
 Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
 ## Termini
-1. (pon) 23.1.
-2. (pon) 30.1.
-3. (pon) 06.2.
-4. (pon) 13.2.
-5. (pon) 20.2.
-6. (sre) 01.3.
-7. (pon) 06.3.
-8. (sre) 15.3.
-9. (pon) 20.3.
-10.(pon) 27.3.
-11.(pon) 03.4. - Izpit
+01. (pon) 23.1.
+02. (pon) 30.1.
+03. (pon) 06.2.
+04. (pon) 13.2.
+05. (pon) 20.2.
+06. (sre) 01.3.
+07. (pon) 06.3.
+08. (sre) 15.3.
+09. (pon) 20.3.
+10. (pon) 27.3. 
+11. (pon) 03.4. - Izpit
 
 ## Zagon 
 ### Linux (Ubuntu 20)
