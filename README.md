@@ -1,4 +1,4 @@
-# Analitika 1: Analitika podatkov v Python-u (public)
+# Analitika podatkov v Python-u
 
 Repozitorji za primere in gradiva tečaja Analitika podatkov v Python-u.
 
