@@ -1,0 +1,20 @@
+company,rank,revenues,revenue_change,profits,assets,profit_change,ceo,industry,sector,previous_rank,country,hq_location,website,years_on_global_500_list,employees,total_stockholder_equity
+Walmart,1,485873,0.8,13643.0,198825,-7.2,C. Douglas McMillon,General Merchandisers,Retailing,1,USA,"Bentonville, AR",http://www.walmart.com,23,2300000,77798
+State Grid,2,315199,-4.4,9571.3,489838,-6.2,Kou Wei,Utilities,Energy,2,China,"Beijing, China",http://www.sgcc.com.cn,17,926067,209456
+Sinopec Group,3,267518,-9.1,1257.9,310726,-65.0,Wang Yupu,Petroleum Refining,Energy,4,China,"Beijing, China",http://www.sinopec.com,19,713288,106523
+China National Petroleum,4,262573,-12.3,1867.5,585619,-73.7,Zhang Jianhua,Petroleum Refining,Energy,3,China,"Beijing, China",http://www.cnpc.com.cn,17,1512048,301893
+Toyota Motor,5,254694,7.7,16899.3,437575,-12.3,Akio Toyoda,Motor Vehicles and Parts,Motor Vehicles & Parts,8,Japan,"Toyota, Japan",http://www.toyota-global.com,23,364445,157210
+Volkswagen,6,240264,1.5,5937.3,432116,,Matthias Muller,Motor Vehicles and Parts,Motor Vehicles & Parts,7,Germany,"Wolfsburg, Germany",http://www.volkswagen.com,23,626715,97753
+Royal Dutch Shell,7,240033,-11.8,4575.0,411275,135.9,Ben van Beurden,Petroleum Refining,Energy,5,Netherlands,"The Hague, Netherlands",http://www.shell.com,23,89000,186646
+Berkshire Hathaway,8,223604,6.1,24074.0,620854,,Warren E. Buffett,Insurance: Property and Casualty (Stock),Financials,11,USA,"Omaha, NE",http://www.berkshirehathaway.com,21,367700,283001
+Apple,9,215639,-7.7,45687.0,321686,-14.4,Timothy D. Cook,"Computers, Office Equipment",Technology,9,USA,"Cupertino, CA",http://www.apple.com,15,116000,128249
+Exxon Mobil,10,205004,-16.7,7840.0,330314,-51.5,Darren W. Woods,Petroleum Refining,Energy,6,USA,"Irving, TX",http://www.exxonmobil.com,23,72700,167325
+McKesson,11,198533,3.1,5070.0,60969,124.5,John H. Hammergren,Wholesalers: Health Care,Wholesalers,12,USA,"San Francisco, CA",http://www.mckesson.com,23,64500,11095
+BP,12,186606,-17.4,115.0,263316,,Robert W. Dudley,Petroleum Refining,Energy,10,Britain,"London, Britain",http://www.bp.com,23,74500,95286
+UnitedHealth Group,13,184840,17.7,7017.0,122810,20.7,Stephen J. Hemsley,Health Care: Insurance and Managed Care,Health Care,17,USA,"Minnetonka, MN",http://www.unitedhealthgroup.com,21,230000,38274
+CVS Health,14,177526,15.8,5317.0,94462,1.5,Larry J. Merlo,Health Care: Pharmacy and Other Services,Health Care,18,USA,"Woonsocket, RI",http://www.cvshealth.com,22,204000,36830
+Samsung Electronics,15,173957,-2.0,19316.5,217104,16.8,Oh-Hyun Kwon,"Electronics, Electrical Equip.",Technology,13,South Korea,"Suwon, South Korea",http://www.samsung.com,23,325000,154376
+Glencore,16,173883,2.0,1379.0,124600,,Ivan Glasenberg,"Mining, Crude-Oil Production",Energy,14,Switzerland,"Baar, Switzerland",http://www.glencore.com,7,93123,44243
+Daimler,17,169483,2.2,9428.4,256262,0.9,Dieter Zetsche,Motor Vehicles and Parts,Motor Vehicles & Parts,16,Germany,"Stuttgart, Germany",http://www.daimler.com,23,282488,61116
+General Motors,18,166380,9.2,9427.0,221690,-2.7,Mary T. Barra,Motor Vehicles and Parts,Motor Vehicles & Parts,20,USA,"Detroit, MI",http://www.gm.com,23,225000,43836
+AT&T,19,163786,11.6,12976.0,403821,-2.8,Randall L. Stephenson,Telecommunications,Telecommunications,23,USA,"Dallas, TX",http://www.att.com,23,268540,123135

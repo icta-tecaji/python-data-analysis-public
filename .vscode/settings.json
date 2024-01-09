@@ -1,13 +1,17 @@
 {
-    "python.linting.pylintEnabled": false,
-    "python.linting.flake8Enabled": true,
-    "python.linting.enabled": true,
-    "python.linting.flake8Args": [
-        "--max-line-length=150",
-    ],
-    "python.formatting.provider": "black",
-    "editor.formatOnSave": true,
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": true
-    },
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.diagnosticMode": "workspace",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "charliermarsh.ruff",
+  "editor.tabSize": 4,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports.ruff": "explicit",
+    "source.addMissingImports": "explicit",
+    "source.formatDocument.ruff": "explicit",
+    "source.fixAll.ruff": "explicit"
+  },
+  "ruff.importStrategy": "fromEnvironment",
+  "ruff.lint.args": ["--select=ALL", "--line-length=180"],
+  "ruff.format.args": ["--line-length=120"]
 }

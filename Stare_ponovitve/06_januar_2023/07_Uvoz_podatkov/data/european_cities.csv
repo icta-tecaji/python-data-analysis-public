@@ -1,0 +1,36 @@
+﻿City,Country,"Business services 2011  (%)","Business stock 2011  (per 100k of population)","Employment rate 2011  (%)","GVA 2011  (Â£ billion)","GVA per worker 2011  (Â£)","High skilled population 2011  (%)","Low skilled population 2011  (%)","Manufacturing, mining and utilities 2011  (%)","Medium skilled population 2011  (%)","Other private services 2011  (%)","Other sectors 2011  (%)","Patent applications to the EPO 2011  (per 100K of population)","Population 2011","Public services 2011  (%)","Total jobs 2011","Unemployment rate 2011  (%)"
+Copenhagen,Denmark,28.38,531.048,72.05,44.8739,59100,40.53,17.56,6.06,35.72,29.54,4.24,28.5121,1209627,31.79,759900,5.37
+London,"United Kingdom",40.22,408.16126,71.38,343.53426,68900,43.44,24.44,3.27,21.81,30.73,3.47,7.76264,9350226,22.30,4986300,9.26
+"Mülheim a.d.Ruhr",Germany,20.26,454.57262,73.11,4.035,53400,27.08,18.88,20.26,60.56,34.17,6.89,55.07219,167344,18.41,75500,6.74
+Münster,Germany,27.59,509.03672,75.37,11.60307,57800,41.81,9.51,7.87,48.73,26.99,4.03,23.54871,279803,33.57,200800,4.59
+Munich,Germany,37.38,711.86814,75.71,66.81867,71000,44.65,12.88,11.85,43.77,24.75,2.76,60.88963,1353186,23.24,940600,4.86
+Plymouth,"United Kingdom",16.84,189.75443,72.29,4.56811,42900,26.92,31.76,12.35,36.96,32.63,3.75,1.35734,256384,34.42,106500,6.84
+Ãâ¦rhus,Denmark,23.55,275.92705,70.30,9.00226,49400,45.41,14.85,7.04,35.63,29.67,4.74,38.34406,310956,35.01,182200,3.84
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+Notes:,,,,,,,,,,,,,,,,,
+"Business services","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Business stock","Source: Eurostat, Economy and finance - cities and greater cities; FSO, Statent; CSO, Business Demography; INSEE, rÃÂ©pertoire des ÃÂ©tablissements et des entreprises; Istat, Census 2011; CBS, Vestigingen van bedrijven. Centre for Cities calculation. Data unavailable for Polish, Spanish and Swedish cities."
+"Employment rate","Source: Eurostat, Labour market - cities and greater cities; Statistical Office of Poland, employment rate by municipality; DST, register-based labour force survey; ISTAT, Census 2011. Data for Paris (FR) is for 2012"
+GVA,"Source: Eurostat, Gross value added at basic prices by NUTS 3 regions, Employment (thousand persons) by NUTS 3 regions, Labour market - cities and greater cities; ONS, BRES; INSEE, Recensements de la population 2012; ISTAT, Census 2011; Statistical Office of Poland, Labour market; FSO, Statent, GVA per canton. Data for some cities is for 2012. Centre for Cities calculation."
+"GVA per worker","Source: ONS, Regional Gross Value Added (Income Approach) NUTS3 Tables; NOMIS, Business Register and Employment Survey; NOMIS, population estimates, Centre for Cities calculations"
+"GVA per worker","Source: Eurostat, Gross value added at basic prices by NUTS 3 regions, Employment (thousand persons) by NUTS 3 regions, Labour market - cities and greater cities; ONS, BRES; INSEE, Recensements de la population 2012; ISTAT, Census 2011; Statistical Office of Poland, Labour market; FSO, Statent, GVA per canton. Data for some cities is for 2012. Centre for Cities calculation."
+"High skilled population","Source: Eurostat, Education - cities and greater cities; Statistics Belgium, Census 2011; FSO, Urban Audit statistics; DST, Educational attainment; CSO, Census 2011; Hellenic Statistical Authority; INE, Urban Audit statistics; INSEE, RP 2012; CBS, Municipal populaton; SCB, level of education by municipality. Data for Paris is for 2012. Data unavailable for Milan (IT) and Naples (IT)"
+"Low skilled population","Source: Eurostat, Education - cities and greater cities; Statistics Belgium, Census 2011; FSO, Urban Audit statistics; DST, Educational attainment; CSO, Census 2011; Hellenic Statistical Authority; INE, Urban Audit statistics; INSEE, RP 2012; CBS, Municipal populaton; SCB, level of education by municipality. Data for Paris is for 2012. Data unavailable for Milan (IT) and Naples (IT)"
+"Manufacturing, mining and utilities","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Medium skilled population","Source: Eurostat, Education - cities and greater cities; Statistics Belgium, Census 2011; FSO, Urban Audit statistics; DST, Educational attainment; CSO, Census 2011; Hellenic Statistical Authority; INE, Urban Audit statistics; INSEE, RP 2012; CBS, Municipal populaton; SCB, level of education by municipality. Data for Paris is for 2012. Data unavailable for Milan (IT) and Naples (IT)"
+"Other private services","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Other sectors","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Patent applications to the EPO","Source: Eurostat, Patent applications to the EPO by priority year by NUTS 3 regions, Gross value added at basic prices by NUTS 3 regions, Employment (thousand persons) by NUTS 3 regions, Labour market - cities and greater cities; ONS, BRES; INSEE, RP 2012; ISTAT, Census 2011; Statistical Office of Poland, Labour market; FSO, Statent, GVA per canton. Centre for Cities calculation. Data unavailable for some cities.
+Please note that this patent data differs from Centre for Cities UK Cities Data Tool data."
+Population,"Source: Eurostat, Population on 1 January by age groups and sex - cities and greater cities; Population on 1 January by broad age group, sex and NUTS 3 region"
+"Public services","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Total jobs","Source: Eurostat, Labour market - cities and greater cities. Data unavailable for Belfast"
+"Total jobs","ONS, Business Register and Employment Survey (BRES)."
+"Total jobs","ONS, Business Register and Employment Survey (BRES)."
+"Unemployment rate","Source: Eurostat, Labour market - cities and greater cities; Statistical Office of Poland, labour market. Data for Paris (FR) is for 2012"
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,
+"Data generated from: https://www.centreforcities.org/data-tool/su/6d9a3c6b",,,,,,,,,,,,,,,,,

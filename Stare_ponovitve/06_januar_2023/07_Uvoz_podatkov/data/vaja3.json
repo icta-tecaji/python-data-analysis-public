@@ -1,0 +1,37 @@
+{
+	"Oseba-1": {
+		"ime": "Anže",
+		"priimek": "Glušič",
+		"študij": "FRI"
+	},
+	"Oseba-2": {
+		"ime": "Leon",
+		"priimek": "Štefanič Južnič",
+		"študij": "FE"
+	},
+	"Oseba-3": {
+		"ime": "Grega",
+		"priimek": "Balkovec",
+		"študij": "FS"
+	},
+	"Oseba-4": {
+		"ime": "Janez",
+		"priimek": "Gliha",
+		"študij": "FMF"
+	},
+	"Oseba-5": {
+		"ime": "Nika",
+		"priimek": "Bogataj",
+		"študij": "FE"
+	},
+	"Oseba-6": {
+		"ime": "Luka",
+		"priimek": "Primožič",
+		"študij": "FRI"
+	},
+	"Oseba-7": {
+		"ime": "Plona",
+		"priimek": "Hudoklin",
+		"študij": "FS"
+	}
+}
