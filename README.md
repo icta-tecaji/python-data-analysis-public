@@ -34,7 +34,18 @@ Termini:
 - How Vectorization Makes Code Faster
 - NumPy library
 - Introduction to Ndarrays
+- Datatypes
 - Basic Operations and Universal Functions
+- Indexing, Slicing and Iterating
+- Vector Math
+- Calculating Statistics For 1D ndarrays
+- Calculating Statistics For 2D ndarrays
+- Boolean Indexing
+- Shape Manipulation
+- Assigning Values
+- Adding Rows and Columns to ndarrays
+- Copies and Views
+- Reading CSV files with NumPy
 
 
 ## Viri
