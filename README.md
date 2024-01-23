@@ -47,6 +47,9 @@ Termini:
 - Copies and Views
 - Reading CSV files with NumPy
 
+### Del 3: Uvod v Pandas
+- 
+
 
 ## Viri
 - [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
