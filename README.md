@@ -4,11 +4,11 @@ Repozitorji za primere in gradiva tečaja Analitika 1: Analitika podatkov v Pyth
 
 ## Splošno
 Termini:
-- 9.1.2024
-- 16.1.2024
-- 23.1.2024
-- 30.1.2024
-- 6.2.2024
+- 9.1.2024 ✅
+- 16.1.2024 ✅
+- 23.1.2024 ✅
+- 30.1.2024 ✅
+- 6.2.2024 ✅
 - 13.2.2024
 - 20.2.2024
 - 27.2.2024
@@ -19,12 +19,12 @@ Termini:
 ## Vsebina
 
 ### Del 1: Uvod v analitiko podatkov in priprava okolja
-- Namestitev Python-a na sistem Windows ✅
-- Python virtualno okolje ✅
-- Priprava razvojnega okolja ✅
-- Git in Github ✅
-- Uvod v analitiko podatkov ✅
-- Jupyter Notebooks ✅
+- Namestitev Python-a na sistem Windows
+- Python virtualno okolje
+- Priprava razvojnega okolja
+- Git in Github
+- Uvod v analitiko podatkov
+- Jupyter Notebooks
 
 ### Del 2: Uvod v NumPy
 - What is NumPy?
@@ -48,7 +48,22 @@ Termini:
 - Reading CSV files with NumPy
 
 ### Del 3: Uvod v Pandas
-- 
+- Understanding pandas and NumPy
+- Package overview
+- Installing and Importing Pandas
+- What kind of data does pandas handle?
+- Introduction to the Data
+- Pandas Data Selection
+- Selecting Rows
+- Boolean Indexing
+- Vectorized Operations
+- Calculate summary statistics
+- Copy-on-Write (CoW)
+
+### Del 4: Priprava in čiščenje podatkov
+
+
+### Del 5: Uvoz podatkov
 
 
 ## Viri

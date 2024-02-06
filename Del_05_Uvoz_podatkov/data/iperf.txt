@@ -1,0 +1,15 @@
+Wed Aug 15 19:35:11 CEST 2018
+Connecting to host x.x.x.x, port 5201
+[  4] local x.x.x.x port 48944 connected to x.x.x.x port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec   375 MBytes  3.14 Gbits/sec  273    471 KBytes
+[  4]   1.00-2.00   sec   428 MBytes  3.59 Gbits/sec  145    376 KBytes
+[  4]   2.00-3.00   sec   360 MBytes  3.02 Gbits/sec  148    454 KBytes
+[  4]   3.00-4.00   sec   339 MBytes  2.84 Gbits/sec   83    407 KBytes
+[  4]   4.00-5.00   sec   305 MBytes  2.56 Gbits/sec  104    414 KBytes
+[  4]   5.00-6.00   sec   301 MBytes  2.53 Gbits/sec  186    440 KBytes
+[  4]   6.00-7.00   sec   325 MBytes  2.73 Gbits/sec  174    485 KBytes
+[  4]   7.00-8.00   sec   434 MBytes  3.64 Gbits/sec   81    677 KBytes
+[  4]   8.00-9.00   sec   412 MBytes  3.46 Gbits/sec  226    537 KBytes
+[  4]   9.00-10.00  sec   409 MBytes  3.43 Gbits/sec   47    372 KBytes
+[  4]   10.00-11.00  sec   523 MBytes  3.81 Gbits/sec   96    422 KBytes
