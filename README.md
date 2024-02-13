@@ -66,6 +66,8 @@ Termini:
 ### Del 5: Uvoz podatkov
 
 
+### Del 6: Agregacija, združevanje in transformacija podatkov
+
 ## Viri
 - [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
 - [Pandas Exercises](https://github.com/guipsamora/pandas_exercises)
