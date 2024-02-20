@@ -9,8 +9,8 @@ Termini:
 - 23.1.2024 ✅
 - 30.1.2024 ✅
 - 6.2.2024 ✅
-- 13.2.2024
-- 20.2.2024
+- 13.2.2024 ✅
+- 20.2.2024 ✅
 - 27.2.2024
 - 5.3.2024
 - 12.3.2024
@@ -62,11 +62,11 @@ Termini:
 
 ### Del 4: Priprava in čiščenje podatkov
 
-
 ### Del 5: Uvoz podatkov
 
-
 ### Del 6: Agregacija, združevanje in transformacija podatkov
+
+### Del 7: Pandas napredno
 
 ## Viri
 - [Pandas cookbook](https://github.com/jvns/pandas-cookbook)
