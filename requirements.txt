@@ -1,3 +1,5 @@
 numpy==1.26.3
 matplotlib
 pandas[all]==2.2.0
+requests 
+beautifulsoup4
